@@ -1,0 +1,9 @@
+- insert:
+    - id: workspace-archive-live
+      # Anchored to a file URL beside this patch, so the loader imports the
+      # module directly instead of resolving the bare package name from the
+      # installation (where this bundle is not installed).
+      name: './index.js'
+      config:
+        reconcileDisk: true
+        reconcileIntervalMs: 2500
