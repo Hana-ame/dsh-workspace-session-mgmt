@@ -5,7 +5,9 @@
   "description": "Live workspace session management: archive/unarchive/pin a session through the running Workspace registry, and reconcile external edits to workspace.json into that running registry.",
   "type": "module",
   "exports": {
-    ".": "./index.js"
+    ".": "./index.js",
+    "./package.json": "./package.json",
+    "./locale/*.json": "./locale/*.json"
   },
   "dsh": {
     "bundle": {

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Workspace Session Management",
+    "description": "Manage workspace sessions live: archive/unarchive and pin/unpin, keeping the GUI layout in sync."
+  }
+}
