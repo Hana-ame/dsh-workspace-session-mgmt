@@ -1,4 +1,4 @@
-# @local/workspace-session-mgmt
+# dsh-workspace-session-mgmt
 
 Live workspace session management for DeepSeek Harness (DSH): archive, unarchive and pin a session through the running Workspace registry, and reconcile external edits to `workspace.json` into that running registry.
 

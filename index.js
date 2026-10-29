@@ -27,7 +27,7 @@ probe("module-eval");
  * This bundle imports nothing outside `node:` so it resolves from any location
  * a bundle may be installed from, not only from inside the Harness install.
  *
- * @module @local/workspace-archive-live
+ * @module dsh-workspace-session-mgmt
  */
 const name = "workspace-archive-live";
 
